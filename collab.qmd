@@ -9,8 +9,12 @@ This is a collaborative Quarto project.
 
 # Contributions
 
+<<<<<<< HEAD
 <!-- Student sections will go here -->
 
 # Person'B Section
 
 This is my contribution to the Quarto project.
+=======
+Change 1
+>>>>>>> upstream/main
